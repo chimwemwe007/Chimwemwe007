@@ -9,7 +9,7 @@
 
 - 🔭 I have worked on [Home of happiness conference page](https://github.com/chimwemwe007/Capstone-Module1)
 
-- 🌱 I’m currently learning **Javascript, html, css, webpack**
+- 🌱 I’m currently learning **Javascript, html, css, React, Ruby. webpack**
 
 - 👯 I’m looking to collaborate on [Portfolio's](https://github.com/chimwemwe007/My-Portfolio)
 
