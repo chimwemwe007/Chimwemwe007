@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Chimwemwe</h1>
-<h3 align="center">A passionate frontend developer from Lusaka, Zambia.</h3>
+<h3 align="center">A passionate full-stack developer from Lusaka, Zambia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimwemwe007&label=Profile%20views&color=0e75b6&style=flat" alt="chimwemwe007" /> </p>
 
