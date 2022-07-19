@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Chimwemwe</h1>
-<h3 align="center">A passionate full-stack developer from Lusaka, Zambia.</h3>
+<h1 align="left">Hello 👋, I'm Chimwemwe</h1>
+<h3 align="left">A passionate full-stack developer from Lusaka, Zambia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimwemwe007&label=Profile%20views&color=0e75b6&style=flat" alt="chimwemwe007" /> </p>
 
@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimwemwe007&show_icons=true&locale=en&layout=compact" alt="chimwemwe007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chimwemwe007&show_icons=true&locale=en" alt="chimwemwe007" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chimwemwe007&show_icons=true&locale=en" alt="chimwemwe007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chimwemwe007&" alt="chimwemwe007" /></p>
