@@ -1,6 +1,8 @@
 <h1 align="left">Hello 👋, I'm Chimwemwe</h1>
 <h3 align="left">A passionate full-stack developer from Lusaka, Zambia. I specialise in HTML, CSS, JAVASCRIPT, REACT, RUBY and RUBY on RAILS.</h3>
 
+<h2>Currently looking for new job opprtunities. i am available for hire.:business_suit_levitating: :building_construction: :desktop_computer: :rescue_worker_helmet: </h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimwemwe007&label=Profile%20views&color=0e75b6&style=flat" alt="chimwemwe007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chimwemwe007" alt="chimwemwe007" /></a> </p>
