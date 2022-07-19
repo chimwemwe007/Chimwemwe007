@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Chimwemwe</h1>
-<h3 align="left">A passionate full-stack developer from Lusaka, Zambia.</h3>
+<h3 align="left">A passionate full-stack developer from Lusaka, Zambia. I specialise in HTML, CSS, JAVASCRIPT, REACT, RUBY and RUBY on RAILS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimwemwe007&label=Profile%20views&color=0e75b6&style=flat" alt="chimwemwe007" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **chimwe.wire@gmail.com**
 
-- ⚡ Fun fact **Conciousness enthusiast and very open minded**
+- ⚡ Fun fact ** Extremely open minded, its scary at times **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
