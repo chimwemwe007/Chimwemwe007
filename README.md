@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/chxmz" target="blank"><img src="https://img.shields.io/twitter/follow/chxmz?logo=twitter&style=for-the-badge" alt="chxmz" /></a> </p>
 
+<img width="500" align="left" src="https://github.com/XsidX/XsidX/raw/master/hire.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 - 🔭 I have worked on [Home of happiness conference page](https://github.com/chimwemwe007/Capstone-Module1)
 
 - 🌱 I’m currently learning **Javascript, html, css, React, Ruby. webpack**
