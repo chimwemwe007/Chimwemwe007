@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chimwemwe007" alt="chimwemwe007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chxmz" target="blank"><img src="https://img.shields.io/twitter/follow/chxmz?logo=twitter&style=for-the-badge" alt="chxmz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chxmz" target="blank"><img src="https://img.shields.io/twitter/follow/CHxMZ?logo=twitter&style=for-the-badge" alt="chxmz" /></a> </p>
 
 <img width="500" align="left" src="https://github.com/XsidX/XsidX/raw/master/hire.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
