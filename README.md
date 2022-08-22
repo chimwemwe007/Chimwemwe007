@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chimwemwe007" alt="chimwemwe007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chxmz" target="blank"><img src="https://img.shields.io/twitter/follow/CHxMZ?logo=twitter&style=for-the-badge" alt="chxmz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chxmz" target="blank"><img src="https://img.shields.io/twitter/follow/CHxMZ?logo=twitter&style=for-the-badge" alt="chxmzmk" /></a> </p>
 
 <img width="500" align="left" src="https://github.com/XsidX/XsidX/raw/master/hire.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🔭 I have worked on [Home of happiness conference page](https://github.com/chimwemwe007/Capstone-Module1)
 
-- 🌱 I’m currently learning **Javascript, html, css, React, Ruby. webpack**
+- 🌱 I’m currently learning **Javascript, React, Redux, Ruby.**
 
-- 👯 I’m looking to collaborate on [Portfolio's](https://github.com/chimwemwe007/My-Portfolio)
+- 👯 I’m looking to collaborate on small projects
 
 - 🤝 I’m looking for help with **Improving my javascript skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chimwemwe007](https://github.com/chimwemwe007)
 
-- 💬 Ask me about **javascript, css, html,**
+- 💬 Ask me about **JAVASCRIPT, HTML, REDUX, REACT, RUBY, RAILLS**
 
 - 📫 How to reach me **chimwe.wire@gmail.com**
 
