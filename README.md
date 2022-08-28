@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Redux, Ruby.**
 
-- 👯 I’m looking to collaborate on small projects
+- 👯 I’m looking to collaborate on small front-end projects built using HTML, CSS, JAVASCRIPT & REACT.
 
 - 🤝 I’m looking for help with **Improving my javascript skills**
 
