@@ -13,19 +13,19 @@
 
 - 🔭 I have worked on [Home of happiness conference page](https://github.com/chimwemwe007/Capstone-Module1)
 
-- 🌱 I’m currently learning **Javascript, React, Redux, Ruby.**
+- 🌱 I’m currently learning **Javascript, React, Redux, Ruby & rails.**
 
-- 👯 I’m looking to collaborate on small front-end projects built using HTML, CSS, JAVASCRIPT & REACT.
+- 👯 I’m looking to collaborate on small front & back-end projects built using HTML, CSS, JAVASCRIPT & REACT, rails
 
 - 🤝 I’m looking for help with **Improving my javascript skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chimwemwe007](https://github.com/chimwemwe007)
 
-- 💬 Ask me about **JAVASCRIPT, HTML, REDUX, REACT, RUBY, RAILLS**
+- 💬 Ask me about anything
 
 - 📫 How to reach me **chimwe.wire@gmail.com**
 
-- ⚡ Fun fact ** Extremely open minded, its scary at times **
+- ⚡ Fun fact ** Sucker for poetry and music **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
