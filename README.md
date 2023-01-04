@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Chimwemwe</h1>
-<h3 align="left">A passionate full-stack developer from Lusaka, Zambia. I specialise in HTML, CSS, JAVASCRIPT, REACT, RUBY and RUBY on RAILS.</h3>
+<h3 align="left">Full-stack developer from Lusaka, Zambia. I specialise in HTML, CSS, JAVASCRIPT, REACT, RUBY and RUBY on RAILS.</h3>
 
 <h2>Currently looking for new job opprtunities. i am available for hire.:business_suit_levitating: :building_construction: :desktop_computer: :rescue_worker_helmet: </h2>
 
