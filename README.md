@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Javascript, React, Redux, Ruby & rails.**
 
-- 👯 I’m looking to collaborate on small front & back-end projects built using HTML, CSS, JAVASCRIPT & REACT, rails
+- 👯 I’m looking to collaborate on small back-end projects built using rails
 
 - 🤝 I’m looking for help with **Improving my javascript skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chimwemwe007](https://github.com/chimwemwe007)
 
-- 💬 Ask me about anything
+- 💬 Feel free to ask me about anything
 
 - 📫 How to reach me **chimwe.wire@gmail.com**
 
