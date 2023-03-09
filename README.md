@@ -11,13 +11,13 @@
 
 <img width="500" align="left" src="https://github.com/XsidX/XsidX/raw/master/hire.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 🔭 I have worked on [Home of happiness conference page](https://github.com/chimwemwe007/Capstone-Module1)
+- 🔭 I have worked on [these projects]([https://github.com/chimwemwe007/Capstone-Module1](https://github.com/chimwemwe007/Chimwemwe007/edit/master/README.md))
 
-- 🌱 I’m currently learning **Javascript, React, Redux, Ruby & rails.**
+- 🌱 I’m currently learning **Javascript, Ruby & rails.**
 
-- 👯 I’m looking to collaborate on small back-end projects built using rails
+- 👯 I’m looking to collaborate on front-end projects.
 
-- 🤝 I’m looking for help with **Improving my Javascript**
+- 🤝 I’m looking for help with **Improving my Javascript and pair programming in small **
 
 - 👨‍💻 All of my projects are available at [https://github.com/chimwemwe007](https://github.com/chimwemwe007)
 
