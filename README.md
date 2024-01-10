@@ -1,7 +1,8 @@
 <h1 align="left">Hello 👋, I'm Chimwemwe</h1>
 <h3 align="left">Entrepreneur | Full-stack developer | Freelancer | Javascript | React | Ruby & ruby on rails | Lusaka, Zambia </h3>
 
-<h2>Currently looking to work on small projects and new career opprtunities | I am available for hire.:business_suit_levitating: :building_construction: :desktop_computer: :rescue_worker_helmet: </h2>
+<h2>Currently looking to work on small projects and new career opprtunities | I am available for hire. 
+  :business_suit_levitating: :building_construction: :desktop_computer: :rescue_worker_helmet: </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimwemwe007&label=Profile%20views&color=0e75b6&style=flat" alt="chimwemwe007" /> </p>
 
