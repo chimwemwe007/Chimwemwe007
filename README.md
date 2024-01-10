@@ -14,7 +14,7 @@
 
 - 🔭 I have worked on [these projects]([https://github.com/chimwemwe007/Capstone-Module1](https://github.com/chimwemwe007/Chimwemwe007/edit/master/README.md))
 
-- 🌱 I’m currently learning **Javascript, Ruby & rails.**
+- 🌱 I’m currently learning **Ruby & rails & python**
 
 - 👯 I’m looking to collaborate on front-end projects.
 
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **chimwe.wire@gmail.com**
 
-- ⚡ Fun fact ** Sucker for Poetry and Music **
+- ⚡ Fun fact ** Sucker for Poetry, Books and Music **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
