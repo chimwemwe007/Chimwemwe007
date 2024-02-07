@@ -41,8 +41,8 @@ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/de
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chimwemwe007 "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chimwemwe007 " /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimwemwe007&show_icons=true&locale=en&layout=compact" alt="chimwemwe007" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimwemwe007&show_icons=true&locale=en&layout=compact" alt="chimwemwe007" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chimwemwe007&show_icons=true&locale=en" alt="chimwemwe007" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=chimwemwe007&show_icons=true&locale=en" alt="chimwemwe007" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chimwemwe007&" alt="chimwemwe007" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=chimwemwe007&" alt="chimwemwe007" /></p>
