@@ -14,9 +14,9 @@
 
 - 🔭 I have worked on [these projects]([https://github.com/chimwemwe007/Capstone-Module1](https://github.com/chimwemwe007/Chimwemwe007/edit/master/README.md))
 
-- 👯 I’m looking to collaborate on front-end projects.
+- 👯 I’m looking to collaborate on front-end projects and currently learning to program Python, ML and AI.
 
-- 🤝 I’m looking for help with **Improving my Javascript and pair programming in small **
+- 🤝 I’m looking for help with **Improving my Javascript and pair programming in small to medium sized projects **
 
 - 👨‍💻 All of my projects are available at [https://github.com/chimwemwe007](https://github.com/chimwemwe007)
 
