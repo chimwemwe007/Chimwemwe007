@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋, I'm Chimwemwe</h1>
+w<h1 align="left">Hello 👋, I'm Chimwemwe</h1>
 <h3 align="left">Entrepreneur | Full-stack developer | Freelancer | Javascript | React | Ruby & ruby on rails | Lusaka, Zambia </h3>
 
 <h2 text-align="centre">Currently Working on contractual projects.
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **chimwe.wire@gmail.com**
 
-- ⚡ Fun fact ** Sucker for Poetry and Music **
+- ⚡ Fun fact ** Sucker for Poetry, a good book to read and Music **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
