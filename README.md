@@ -1,4 +1,4 @@
-w<h1 align="left">Hello 👋, I'm Chimwemwe"</h1>
+w<h1 align="left">Hello 👋, I'm Chimwemwe</h1>
 <h3 align="left">Entrepreneur | Full-stack developer | Freelancer | Javascript | React | Ruby & ruby on rails | Lusaka, Zambia </h3>
 
 <h2 text-align="centre">Currently Working on contractual projects.
